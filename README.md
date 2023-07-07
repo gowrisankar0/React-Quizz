@@ -1,3 +1,40 @@
+<h1>QUIZZ APP</h1>
+#Is this one of the my React project along with fullstack development journey....
+
+<h2>Sapmle working clips are below </h2>
+
+
+
+
+
+![Screenshot (57)](https://github.com/gowrisankar0/React-Quizz/assets/113678338/2f7980d7-922c-404a-a39d-e9de516725c4)
+
+
+
+![Screenshot (58)](https://github.com/gowrisankar0/React-Quizz/assets/113678338/0d06a9cb-c8f0-41c3-afeb-ea5f7bbb22c1)
+
+
+
+
+![Screenshot (59)](https://github.com/gowrisankar0/React-Quizz/assets/113678338/e04b09f8-5332-4f8a-9967-b1d3a76bae16)
+
+
+
+![Screenshot (60)](https://github.com/gowrisankar0/React-Quizz/assets/113678338/ce99d99e-f83a-482e-80cd-f7b7466bc781)
+
+
+
+
+![Screenshot (61)](https://github.com/gowrisankar0/React-Quizz/assets/113678338/578427a3-171d-4df8-ae20-e6b6b89ba2c3)
+
+
+<h1>Result out of 5 Questions</h1>
+
+
+![Screenshot (62)](https://github.com/gowrisankar0/React-Quizz/assets/113678338/4de14316-e703-4e2c-9bcb-937e68881e53)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
