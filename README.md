@@ -1,7 +1,7 @@
 <h1>QUIZZ APP</h1>
 #Is this one of the my React project along with fullstack development journey....
 
-<h2>Sapmle working clips are below </h2>
+<h2>Sample working clips are below </h2>
 
 
 
